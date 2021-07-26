@@ -38,7 +38,7 @@ return (
       <header className="App-header" style={{backgroundColor:accentColor}}>
         <div id ="quote-box" style={{color:accentColor}}>
        <h3 id="text" >< FontAwesomeIcon icon ={faQuoteLeft} /> {quote}</h3>
-       <h5 id="author">- {author}</h5>
+       <h5 id="author">-ww {author}</h5>
        
        
        <button id="new-quote" onClick={ generateRandomNum } style={{backgroundColor:accentColor}}>New quote</button>
